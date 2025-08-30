@@ -1,0 +1,31 @@
+IndicatorCode,IndicatorName,BankingRelevance
+FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),Credit depth / bank lending
+FD.AST.PRVT.GD.ZS,Domestic credit to private sector by banks (% of GDP),Bank intermediation
+FS.AST.DOMS.GD.ZS,Domestic credit provided by financial sector (% of GDP),Financial depth
+FM.LBL.BMNY.GD.ZS,Broad money (% of GDP),Liquidity / monetization
+FM.LBL.MQMY.ZG,Money and quasi money growth (annual %),Monetary conditions
+FR.INR.LEND,Lending interest rate (%),Pricing of bank loans
+FR.INR.DPST,Deposit interest rate (%),Pricing of bank funding
+FR.INR.LNDP,"Interest rate spread (lending minus deposit, %)",Bank margin proxy
+FR.INR.RINR,Real interest rate (%),Real cost of credit
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",Price stability / credit risk
+FB.AST.NPER.ZS,Bank nonperforming loans to total gross loans (%),Asset quality
+FB.BNK.CAPA.ZS,Bank capital to assets (%),Bank capitalization / solvency
+CM.MKT.LCAP.GD.ZS,Market capitalization of listed domestic companies (% of GDP),Capital market depth
+CM.MKT.TRAD.GD.ZS,"Stocks traded, total value (% of GDP)",Market liquidity
+CM.MKT.TRNR,"Stocks traded, turnover ratio of domestic shares (%)",Market activity / liquidity
+BN.CAB.XOKA.GD.ZS,Current account balance (% of GDP),External vulnerability
+PA.NUS.FCRF,"Official exchange rate (LCU per USD, period average)",FX / dollarization risk
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),Macro cycle / credit demand
+NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),Income dynamics
+NE.GDI.TOTL.ZS,Gross capital formation (% of GDP),Investment / credit demand
+NE.CON.GOVT.ZS,General government final consumption expenditure (% of GDP),Fiscal stance
+GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",Sovereign risk / crowding out
+NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),Openness / FX earnings
+NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),External demand / pressure
+NE.TRD.GNFS.ZS,Trade (% of GDP),Openness / exposure
+DT.DOD.DECT.GN.ZS,"External debt stocks, total (% of GNI)",External leverage
+BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",External financing
+NY.GNS.ICTR.ZS,Gross savings (% of GDP),Funding / investment capacity
+BX.TRF.PWKR.DT.GD.ZS,"Personal remittances, received (% of GDP)",Household income / deposits
+FB.CBK.BRCH.P5,"Commercial bank branches (per 100,000 adults)",Access / inclusion
